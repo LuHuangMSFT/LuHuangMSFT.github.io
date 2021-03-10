@@ -1,7 +1,13 @@
 {
-    "manifest": "https://luhuangmsft.github.io/manifest.json",
-    "details": {
-        "paths": ["*"],
-        "exclude_paths": []
-    }
+    "web_apps": [
+        {
+            "manifest": "https://luhuangmsft.github.io/manifest.json",
+            "details": {
+                "paths": [
+                    "/*"
+                ],
+                "exclude_paths": []
+            }
+        }
+    ]
 }
