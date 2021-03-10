@@ -1,2 +1,7 @@
 {
+    "manifest": "https://luhuangmsft.github.io/manifest.json",
+    "details": {
+        "paths": ["*"],
+        "exclude_paths": []
+    }
 }
