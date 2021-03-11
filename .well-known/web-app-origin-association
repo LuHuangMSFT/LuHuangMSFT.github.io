@@ -1,7 +1,7 @@
 {
     "web_apps": [
         {
-            "manifest": "https://luhuangmsft.github.io/manifest.json",
+            "manifest": "https://luhuangmsft.github.io/pwa/manifest.json",
             "details": {
                 "paths": [],
                 "exclude_paths": []
