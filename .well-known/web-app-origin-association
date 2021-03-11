@@ -3,9 +3,7 @@
         {
             "manifest": "https://luhuangmsft.github.io/manifest.json",
             "details": {
-                "paths": [
-                    "/*"
-                ],
+                "paths": [],
                 "exclude_paths": []
             }
         }
