@@ -6,6 +6,9 @@
                 "paths": [],
                 "exclude_paths": []
             }
+        },
+        {
+            "manifest": "https://mandymsft.github.io/pwa/manifest.json"
         }
     ]
 }
