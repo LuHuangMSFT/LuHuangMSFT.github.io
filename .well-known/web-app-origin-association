@@ -8,7 +8,14 @@
             }
         },
         {
-            "manifest": "https://mandymsft.github.io/pwa/manifest.json"
+            "manifest": "https://mandymsft.github.io/pwa/manifest.json",
+            "details": {
+                "paths": [
+                    "/pwa/target2.html",
+                    "/pwa",
+                    "/*"
+                ]
+            }
         }
     ]
 }
