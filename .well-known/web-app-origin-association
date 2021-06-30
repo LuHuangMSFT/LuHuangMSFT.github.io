@@ -13,6 +13,8 @@
                 "paths": [
                     "/pwa/target2.html",
                     "/pwa",
+                    "/*",
+                    "/*",
                     "/*"
                 ]
             }
