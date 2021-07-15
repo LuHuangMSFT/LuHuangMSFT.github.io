@@ -1,6 +1,17 @@
-[{
-  "packageFamilyName" : "luhuangmsft.github.io-C8A0C6C5_9he13xmwfr7r4",
-  "paths" : [ "*" ],
-  "excludePaths" : [ "bananaslug" ]
- }]
- 
+[
+   {
+      "packageFamilyName":"luhuangmsft.github.io-3D07BBBF_9he13xmwfr7r4",
+      "paths":[
+         "*"
+      ],
+      "excludePaths":[
+         "bananaslug"
+      ]
+   },
+   {
+      "packageFamilyName":"mandymsft.github.io-4ABE823B_v18mt78jvk2zc",
+      "paths":[
+         "*"
+      ]
+   }
+]
