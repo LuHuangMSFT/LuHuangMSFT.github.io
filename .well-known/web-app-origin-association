@@ -3,20 +3,14 @@
         {
             "manifest": "https://luhuangmsft.github.io/pwa/manifest.json",
             "details": {
-                "paths": [],
-                "exclude_paths": []
+                "paths": ["/*"],
+                "exclude_paths": ["/about"]
             }
         },
         {
             "manifest": "https://mandymsft.github.io/pwa/manifest.json",
             "details": {
-                "paths": [
-                    "/pwa/target2.html",
-                    "/pwa",
-                    "/*",
-                    "/*",
-                    "/*"
-                ]
+                "paths": ["/*"]
             }
         }
     ]
