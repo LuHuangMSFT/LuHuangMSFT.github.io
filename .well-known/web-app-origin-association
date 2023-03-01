@@ -12,6 +12,12 @@
             "details": {
                 "paths": ["/*"]
             }
-        }
+        },
+        {
+            "manifest": "https://efficient-newt-1.glitch.me/manifest.webmanifest",
+            "details": {
+                "paths": ["/*"]
+            }
+        }        
     ]
 }
