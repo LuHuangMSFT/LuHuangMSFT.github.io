@@ -16,7 +16,8 @@
         {
             "manifest": "https://alluring-graceful-lasagna.glitch.me/manifest.webmanifest",
             "details": {
-                "paths": ["/*"]
+                "paths": ["/*"],
+                "exclude_paths": ["/README.md"]
             }
         }        
     ]
