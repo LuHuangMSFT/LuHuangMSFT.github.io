@@ -1,24 +1,16 @@
 {
     "web_apps": [
         {
-            "manifest": "https://luhuangmsft.github.io/pwa/manifest.json",
-            "details": {
-                "paths": ["/*"],
-                "exclude_paths": ["/about"]
-            }
+            "web_app_identity": "https://luhuangmsft.github.io/pwa/"
         },
         {
-            "manifest": "https://mandymsft.github.io/pwa/manifest.json",
-            "details": {
-                "paths": ["/*"]
-            }
+            "web_app_identity": "https://mandymsft.github.io/pwa/",
         },
         {
-            "manifest": "https://alluring-graceful-lasagna.glitch.me/manifest.webmanifest",
-            "details": {
-                "paths": ["/*"],
-                "exclude_paths": ["/README.md"]
-            }
-        }        
+            "web_app_identity": "https://alluring-graceful-lasagna.glitch.me/",
+        },
+        {
+            "web_app_identity": "https://organic-peat-vise.glitch.me/",
+        }
     ]
 }
