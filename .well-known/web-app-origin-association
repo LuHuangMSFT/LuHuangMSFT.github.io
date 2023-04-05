@@ -1,0 +1,24 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://luhuangmsft.github.io/pwa/manifest.json",
+            "details": {
+                "paths": ["/*"],
+                "exclude_paths": ["/about"]
+            }
+        },
+        {
+            "manifest": "https://mandymsft.github.io/pwa/manifest.json",
+            "details": {
+                "paths": ["/*"]
+            }
+        },
+        {
+            "manifest": "https://alluring-graceful-lasagna.glitch.me/manifest.webmanifest",
+            "details": {
+                "paths": ["/*"],
+                "exclude_paths": ["/README.md"]
+            }
+        }        
+    ]
+}
