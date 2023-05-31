@@ -11,6 +11,9 @@
         },
         {
             "web_app_identity": "https://organic-peat-vise.glitch.me/index.html"
+        },
+        {
+            "web_app_identity": "https://scope-extensions-permissions.glitch.me"
         }
     ]
 }
