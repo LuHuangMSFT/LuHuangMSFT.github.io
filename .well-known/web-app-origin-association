@@ -14,6 +14,9 @@
         },
         {
             "web_app_identity": "https://scope-extensions-permissions.glitch.me/index.html"
+        },
+        {
+            "web_app_identity": "https://inky-waiting-beak.glitch.me/index.html"
         }
     ]
 }
