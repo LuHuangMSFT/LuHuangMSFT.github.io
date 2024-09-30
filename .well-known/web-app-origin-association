@@ -17,6 +17,9 @@
         },
         {
             "web_app_identity": "https://inky-waiting-beak.glitch.me/index.html"
+        },
+        {
+            "web_app_identity": "https://jahn00.github.io/pwa/index.html"
         }
     ]
 }
