@@ -1,25 +1,15 @@
 {
-    "web_apps": [
-        {
-            "web_app_identity": "https://luhuangmsft.github.io/pwa/index.html"
-        },
-        {
-            "web_app_identity": "https://mandymsft.github.io/pwa/index.html"
-        },
-        {
-            "web_app_identity": "https://alluring-graceful-lasagna.glitch.me/index.html"
-        },
-        {
-            "web_app_identity": "https://organic-peat-vise.glitch.me/index.html"
-        },
-        {
-            "web_app_identity": "https://scope-extensions-permissions.glitch.me/index.html"
-        },
-        {
-            "web_app_identity": "https://inky-waiting-beak.glitch.me/index.html"
-        },
-        {
-            "web_app_identity": "https://jahn00.github.io/pwa/index.html"
-        }
-    ]
+  "https://luhuangmsft.github.io/pwa/index.html": {},
+
+  "https://mandymsft.github.io/pwa/index.html": {},
+
+  "https://alluring-graceful-lasagna.glitch.me/index.html": {},
+
+  "https://organic-peat-vise.glitch.me/index.html": {},
+
+  "https://scope-extensions-permissions.glitch.me/index.html": {},
+
+  "https://inky-waiting-beak.glitch.me/index.html": {},
+
+  "https://jahn00.github.io/pwa/index.html": { "scope": "/pwa" }
 }
