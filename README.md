@@ -13,7 +13,7 @@ The homepage is `index.html`; its styles are included in the same file.
 The name and introduction are editable draft copy, not a confirmed biography:
 
 - **Name:** Lu Huang
-- **Tagline:** Building thoughtful software.
+- **Tagline:** Building the Web.
 - **Introduction:** Find my work and connect with me on GitHub.
 - **Profile:** <https://github.com/LuHuangMSFT>
 
